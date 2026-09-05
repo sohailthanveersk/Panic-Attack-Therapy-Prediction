@@ -29,7 +29,7 @@ Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
 ## Results
 
 ### Exploratory Data Analysis
-![EDA](Results/EDA_Plots.jpg)
+![EDA
 
 ### Confusion Matrices
 ![Confusion Matrices](Results/Confusion_Matrices.jpg)
