@@ -105,19 +105,25 @@ git clone https://github.com/sohailthanveersk/Panic-Attack-Therapy-Prediction.gi
 
 ### 2. Navigate to the project
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Install Required Libraries
 
 Install the required Python packages using:
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the project
 
 Execute the Python script:
 
+```bash
 python panic_attack_therapy_prediction.py
+```
 
 ## Future Enhancements
 
