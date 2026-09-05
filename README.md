@@ -32,7 +32,7 @@ Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
   ![EDA](Results/EDA_Plots.png)
 
 ### Confusion Matrices
-![Confusion Matrices](Results/Confusion_Matrices.jpg)
+![Confusion Matrices](Results/Confusion_Matrices.png)
 
 ### Model Comparison
 ![Model Comparison](Results/Model_Comparison.jpg)
