@@ -1,17 +1,34 @@
 # Panic Attack Therapy Prediction Using Machine Learning
 
-## Overview
-A machine learning classification system developed to predict therapy requirements using panic-attack-related physiological, behavioral, and lifestyle features.
+## Project Overview
 
-The original academic project's source repository and dataset were lost. The Python implementation here is reconstructed from the original hard-copy project report.
+Developed a machine learning classification system to predict therapy requirements based on panic-attack-related physiological, behavioral, lifestyle, and symptom features.
+
+The project performs data preprocessing, exploratory data analysis, feature encoding, model training, and performance evaluation using Support Vector Machine (SVM) and XGBoost classifiers.
 
 > **Disclaimer:** This is an academic/portfolio project and is not a medical diagnostic or treatment system.
 
 ## Objective
-Predict whether therapy may be required based on panic-attack-related features.
 
-## Workflow
-Dataset → Preprocessing → EDA → Train/Test Split → SVM & XGBoost → Evaluation → Prediction
+The objective of this project is to analyze panic-attack-related factors and build a classification model capable of predicting whether therapy may be required.
+
+## Project Workflow
+
+Dataset
+↓
+Data Preprocessing
+↓
+Exploratory Data Analysis
+↓
+Feature Engineering
+↓
+Train-Test Split
+↓
+SVM & XGBoost
+↓
+Model Evaluation
+↓
+Therapy Prediction
 
 ## Models
 - Support Vector Machine (SVM)
@@ -54,9 +71,6 @@ Panic-Attack-Therapy-Prediction/
 ├── .gitignore
 └── README.md
 ```
-
-## Dataset
-The original dataset is unavailable. Do not use a replacement dataset and claim it is the original. If recovered, place it at `Dataset/Panic_Attack.csv`.
 
 ## Run
 ```bash
