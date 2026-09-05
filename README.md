@@ -99,7 +99,7 @@ Panic-Attack-Therapy-Prediction/
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/Panic-Attack-Therapy-Prediction.git
+git clone https://github.com//Panic-Attack-Therapy-Prediction.git
 
 ### 2. Navigate to the project
 
